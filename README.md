@@ -38,3 +38,7 @@ plt.axis("off")
 
 plt.show()```
 
+![image](https://github.com/Arif-miad/introduction-to-open-cv/assets/83044522/cc17c9aa-86c0-484c-a428-8b40ab2994a2)
+
+![image](https://github.com/Arif-miad/introduction-to-open-cv/assets/83044522/a2ea9111-ef8b-461c-be80-f707679751bf)
+
